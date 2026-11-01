@@ -1,0 +1,5 @@
+fastmcp>=2.12
+openai-agents>=0.4
+openai>=1.40
+python-dotenv>=1.0
+pytest>=8.0
